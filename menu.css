@@ -65,15 +65,15 @@ p{
   }
   
   #optionOne{
-    background-color:#2ecc71;
+    background-color:#272727;
   }
   
   #optionTwo{
-    background-color:#3498db;
+    background-color:#FED766;
   }
   
   #optionThree{
-    background-color:#9b59b6;
+    background-color:#009FB7;
   }
   
   #optionFour{
@@ -81,10 +81,10 @@ p{
   }
   
   #optionFive{
-    background-color:#95a5a6;
+    background-color:red;
   }
   
-  #optionFive{
-    background-color:#34495e;
+  #optionSix{
+    background-color:#61D8AD;
   }
   
