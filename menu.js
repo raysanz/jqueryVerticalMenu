@@ -1,7 +1,11 @@
-$('.strip').click(function () {
-    debugger
-    $(this).css("z-index", "110");
-    $(this).toggleClass('strip-active');
-    $(this).siblings().toggleClass('strip-hidden');
-    $('p').toggleClass('p-active');
+$(document).ready(function () {
+    console.log("document loaded");
+    $('.strip').click(function () {
+        debugger
+        $(this).css("z-index", "110");
+        $(this).toggleClass('strip-active');
+        $(this).siblings().toggleClass('strip-hidden');
+        $('p').toggleClass('p-active');
+    });
 });
+
